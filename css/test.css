@@ -1,0 +1,17 @@
+body{
+		background-color: grey;
+	}
+	h1{
+			font-size: 30px;
+			color: salmon;
+		}
+		h2{
+			color: palevioletred;
+			font-style: italic;
+		}
+		.july{
+			font-size: 20px;
+		}
+		h1 span{
+			color: blueviolet;
+		}	}
